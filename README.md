@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ticket Management System
 
 A small full-stack ticket management application built for the Full Stack Developer take-home assignment.
@@ -748,3 +749,7 @@ Before submitting the project, I would check the following:
 - Screenshots have been added to the README
 - `.env` is not committed
 - `node_modules` and Python virtual environment are not committed
+=======
+# TicketManagementSystem
+A Ultimate Platform for Organization to manage the ticket and handling the ticket. It reduce the pain points  to managing the tickets that are submitted by users , view by admin and the person who is responsible to solve that particular ticket.
+>>>>>>> 19cdbb1076f3d06b179b2d54f5d842af800afcf8
