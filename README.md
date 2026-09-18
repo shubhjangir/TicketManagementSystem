@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<img width="1887" height="912" alt="image" src="https://github.com/user-attachments/assets/59b001a5-56a9-45e1-a0bd-a387fb31fddc" />
 # Ticket Management System
 
 A small full-stack ticket management application built for the Full Stack Developer take-home assignment.
@@ -17,9 +17,9 @@ I have added these sections so screenshots of the application can be added direc
 
 ## 1. Client Dashboard
 
-<!-- PASTE SCREENSHOT HERE -->
 
-![Client Dashboard](screenshots/client-dashboard.png)
+
+
 
 ---
 
