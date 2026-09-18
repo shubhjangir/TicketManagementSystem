@@ -1,4 +1,4 @@
-<img width="1887" height="912" alt="image" src="https://github.com/user-attachments/assets/59b001a5-56a9-45e1-a0bd-a387fb31fddc" />
+
 # Ticket Management System
 
 A small full-stack ticket management application built for the Full Stack Developer take-home assignment.
@@ -19,55 +19,33 @@ I have added these sections so screenshots of the application can be added direc
 
 
 
+<img width="1887" height="912" alt="Screenshot 2026-09-19 020643" src="https://github.com/user-attachments/assets/c8ab428d-e2b5-489c-970d-6e3f8a2e1d30" />
 
 
 ---
 
 ## 2. Create New Ticket
 
-<!-- PASTE SCREENSHOT HERE -->
+<img width="1905" height="913" alt="image" src="https://github.com/user-attachments/assets/1eb50cd0-c585-44da-a738-619423350c2e" />
 
-![Create Ticket](screenshots/create-ticket.png)
 
 ---
 
 ## 3. Ticket Details
 
-<!-- PASTE SCREENSHOT HERE -->
+<img width="1252" height="751" alt="image" src="https://github.com/user-attachments/assets/55a6716a-39e4-40c4-8f43-0b4a2771ceb4" />
 
-![Ticket Details](screenshots/ticket-details.png)
-
----
-
-## 4. Department POC — Assign Technician
-
-<!-- PASTE SCREENSHOT HERE -->
-
-![Assign Technician](screenshots/assign-technician.png)
 
 ---
 
-## 5. Technician Assessment
 
-<!-- PASTE SCREENSHOT HERE -->
 
-![Technician Assessment](screenshots/technician-assessment.png)
 
----
 
-## 6. Activity / Audit Trail
+## 4. Mobile View
 
-<!-- PASTE SCREENSHOT HERE -->
+<img width="280" height="598" alt="image" src="https://github.com/user-attachments/assets/61ee13c5-6832-4eaa-8d84-45834d670ce4" />
 
-![Activity Log](screenshots/activity-log.png)
-
----
-
-## 7. Mobile View
-
-<!-- PASTE SCREENSHOT HERE -->
-
-![Mobile View](screenshots/mobile-view.png)
 
 ---
 
